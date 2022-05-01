@@ -29,8 +29,6 @@
 
 - :seedling: In my spare time, I enjoy solving coding problems, staying active, being outside and meeting friends!
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wendychung31/)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
