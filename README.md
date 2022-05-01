@@ -27,7 +27,7 @@
  - :seedling: I am a Full Stack/ Salesforce Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK, and currently based in Barcelona, Spain.
 - :telescope: Extremely adaptable with excellent problem solving skills, and highly user focused.
 
-- :zap: In my free time, I like to solve coding problems.
+- :zap: When I'm not at the keyboard, I enjoy solving coding problems, staying active, being outside and meeting friends!
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wendychung31/)
 
