@@ -19,7 +19,7 @@
 </div>
 
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" width="600" height="300" />
 </div>
   
   ---
