@@ -3,7 +3,9 @@
   Hey there! I'm Wendy
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
+    <div align="center">
+  <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" width="600"  />
+</div>
   
   <div id="badges">
      <a href="https://trailblazer.me/id/wchung">
@@ -31,7 +33,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="Salesforce" **alt="Salesforce" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -46,7 +48,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
 </div>
 
-   <div align="center">
-  <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" width="600"  />
-</div>
+<div align="center">
+<img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
+  </div>
 
