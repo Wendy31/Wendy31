@@ -23,7 +23,7 @@
   
   ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me:
  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A Full Stack/ Salesforce Developer from the UK, based in Barcelona, Spain.
 - :zap: Extremely adaptable with excellent problem solving skills, and highly user focused.
 
