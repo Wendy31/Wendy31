@@ -15,11 +15,9 @@
 </div>
   
   <img src="https://komarev.com/ghpvc/?username=wendy31&style=flat-square&color=orange" alt=""/>
-  
+
 </div>
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" width="600"  />
-</div>
+ 
   
   ---
 
@@ -48,5 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
 </div>
 
-
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" width="600"  />
+</div>
 
