@@ -13,28 +13,24 @@
   <img src="https://komarev.com/ghpvc/?username=wendy31&style=flat-square&color=orange" alt=""/>
   
   <h1>
-  Hey there - I'm Wendy!
+  Hey there! I'm Wendy
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
   <div align="center">
-  <img src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif" width="400" height="300"/>
+  <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
 </div>
   
   ---
 
 ### :woman_technologist: About Me :
-  I am a Full Stack/ Salesforce Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK, and currently based in Barcelona, Spain.
-
-
-- :telescope: I’m working as a Salesforce Developer/ Consultant.
-
-- :seedling: Exploring Technical Content Writing.
+ - :seedling: I am a Full Stack/ Salesforce Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK, and currently based in Barcelona, Spain.
+- :telescope: Extremely adaptable with excellent problem solving skills, and highly user focused.
 
 - :zap: In my free time, I like to solve coding problems.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wendychung31/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wendychung31/)
 
 ---
 
