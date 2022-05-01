@@ -1,21 +1,21 @@
 <div id="header" align="center">
+  <h1>
+  Hey there! I'm Wendy
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
+     <a href="https://trailblazer.me/id/wchung">
+    <img src="https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/wendychung31/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://trailblazer.me/id/wchung">
-    <img src="https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Badge"/>
   </a>
 </div>
   
   <img src="https://komarev.com/ghpvc/?username=wendy31&style=flat-square&color=orange" alt=""/>
   
-  <h1>
-  Hey there! I'm Wendy
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
   <div align="center">
   <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" width="600"  />
@@ -24,8 +24,8 @@
   ---
 
 ### :woman_technologist: About Me :
- - :seedling: I am a Full Stack/ Salesforce Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK, and currently based in Barcelona, Spain.
-- :telescope: Extremely adaptable with excellent problem solving skills, and highly user focused.
+ - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack/ Salesforce Developer from the UK, and currently based in Barcelona, Spain.
+- :seedling: Extremely adaptable with excellent problem solving skills, and highly user focused.
 
 - :zap: When I'm not at the keyboard, I enjoy solving coding problems, staying active, being outside and meeting friends!
 
