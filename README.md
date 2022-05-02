@@ -5,7 +5,7 @@
     
 </h1>
    
-  <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" width="60%"  />
+  <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" width="75%"  />
 
   
   <div id="badges">
