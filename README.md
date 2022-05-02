@@ -5,7 +5,7 @@
     
 </h1>
    
-  <img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" width="70%"  />
+
 
   
   <div id="badges">
@@ -20,6 +20,9 @@
   <img src="https://komarev.com/ghpvc/?username=wendy31&style=flat-square&color=orange" alt=""/>
 
 </div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" width="70%"  />
+ </div>
  
   
   ---
