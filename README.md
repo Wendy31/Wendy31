@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"/>
-  Hey there! I'm Wendy  <img src="https://media.giphy.com/media/dTtOyFXfwU5Io91IVW/giphy.gif" width="6%"/>   
+  Hey there! I'm Wendy  <img src="https://media.giphy.com/media/dTtOyFXfwU5Io91IVW/giphy.gif" width="7%"/>   
     
 </h1>
    
