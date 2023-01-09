@@ -4,9 +4,6 @@
   Hey there! I'm Wendy  <img src="https://media.giphy.com/media/dTtOyFXfwU5Io91IVW/giphy.gif" width="53px"/>   
 </h1> 
   
-
-  
-  
   <div id="badges">
      <a href="https://trailblazer.me/id/wchung">
     <img src="https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Badge"/>
@@ -18,10 +15,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=wendy31&style=flat-square&color=orange" alt=""/>
 
-</div>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" width="70%"  />
- </div>
  
   
   ---
