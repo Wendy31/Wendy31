@@ -4,7 +4,6 @@
   Hey there! I'm Wendy  <img src="https://media.giphy.com/media/dTtOyFXfwU5Io91IVW/giphy.gif" width="53px"/>   
 </h1>
 
-  
   <div id="badges">
      <a href="https://trailblazer.me/id/wchung">
     <img src="https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Badge"/>
